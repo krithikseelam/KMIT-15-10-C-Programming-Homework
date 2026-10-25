@@ -1,0 +1,9 @@
+1.Finding duplicates: does any duplicate exist, print duplicate elements, first repeating element, first non-repeating element.
+2.Removing duplicates from an unsorted array using shift-delete (directly reuses the delete ).
+3.Removing duplicates into a new array (keeping first occurrences).
+4.Removing duplicates from a sorted array in place (two-index method).
+5.Most frequent element
+6.Elements occurring exactly k times
+7.Unique elements only
+8.Majority element
+9.Character frequency in a string
