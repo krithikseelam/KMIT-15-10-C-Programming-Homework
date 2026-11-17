@@ -8,8 +8,11 @@ int main(){
 	}
 	for(i = 0; i < 5; i++){
 		for(int j = i + 1; j < 5; j++){
+			if (arr[i] == arr[j])
+			{
 			printf("dublicates exist!!\n");
 			break;
+			}
 		}
 	}
 	if(i == 5){
